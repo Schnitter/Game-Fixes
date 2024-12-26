@@ -5,6 +5,6 @@ But if you try to access the file directly, you will get an error message. Error
 
 During the installation via Steam it can happen that an antivirus program does not copy dll files.
 
-User missing a dll File in 'Folder Borderlands2\Binaries\Win32\'
+User missing a dll File in `Folder Borderlands2\Binaries\Win32\`
 
 
