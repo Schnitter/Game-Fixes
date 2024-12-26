@@ -1,5 +1,8 @@
 # Borderlands 2 FIX
-`Windows 10` `Windows 11` `Steam`
+![Windows](https://img.shields.io/badge/Windows-10-blue?labelColor=grey&style=flat)
+![Windows](https://img.shields.io/badge/Windows-11-navy?labelColor=grey&style=flat)
+![Steam](https://img.shields.io/badge/Steam-navy?style=flat)
+
 
 For Windows 10 and 11 The Game wil not Start from Luncher.
 But if you try to access the file directly, you will get an error message. Error Code (0x000007b)
