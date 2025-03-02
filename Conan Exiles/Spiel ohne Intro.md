@@ -3,7 +3,7 @@ So überspringen Sie Intro-Videos:
 
 Gehen Sie zur Steam-Bibliothek und klicken Sie mit der rechten Maustaste auf Conan, dann auf Eigenschaften und dann auf Lokale Dateien durchsuchen.
 
-Gehen Sie zu: ``\Conan Exiles\ConanSandbox\Config\` öffnen Sie "DefaultGame.ini" und setzen Sie:
+Gehen Sie zu: `\Conan Exiles\ConanSandbox\Config\` öffnen Sie "DefaultGame.ini" und setzen Sie:
 
 ```
 [/script/movieplayer.movieplayersettings]
